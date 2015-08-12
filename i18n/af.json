@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Naudefj\r"
+		]
+	},
+	"createbox-desc": "Gespesialiseerde invoerveld vir die skep van nuwe bladsye",
+	"createbox-create": "Skep",
+	"createbox-exists": "Jammer, \"'''{{FULLPAGENAME}}'''\" bestaan al reeds.\r\n\r\nU kan nie hierdie bladsy skep nie, maar u kan dit wel [{{fullurl:{{FULLPAGENAME}}|action=edit}} wysig], [{{fullurl:{{FULLPAGENAME}}}} wys], of 'n ander bladsy via die onderstaande vorm skep.\r\n\r\n<createbox>break=no</createbox>"
+}

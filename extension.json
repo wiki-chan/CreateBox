@@ -1,0 +1,26 @@
+{
+	"name": "CreateBox",
+	"version": "1.7",
+	"author": [
+		"Ross McClure",
+		"페네트-"
+	],
+	"url": "https://github.com/wiki-chan/CreateBox",
+	"descriptionmsg": "createbox-desc",
+	"license-name": "GPL-2.0",
+	"type": "parserhook",
+	"ExtensionMessagesFiles": {
+		"CreateBox": "CreateBox.i18n.php"
+	},
+	"AutoloadClasses": {
+		"CreateBox": "CreateBox.class.php"
+	},
+	"Hooks": {
+		"ParserFirstCallInit": [
+			"CreateBox::wfCreateBox"
+		],
+		"UnknownAction": [
+			"CreateBox::actionCreate"
+		]
+	}
+}

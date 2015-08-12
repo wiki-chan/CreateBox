@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hamilton Abreu\r",
+			"Malafaya\r",
+			"Waldir\r"
+		]
+	},
+	"createbox-desc": "Caixa especializada para a criação de páginas",
+	"createbox-create": "Criar",
+	"createbox-exists": "Desculpe, \"'''{{FULLPAGENAME}}'''\" já existe.\r\n\r\nNão pode criar esta página, mas pode [{{fullurl:{{FULLPAGENAME}}|action=edit}} editá-la], \r\n[{{fullurl:{{FULLPAGENAME}}}} lê-la], ou optar por criar uma página diferente usando a caixa abaixo.\r\n\r\n<createbox>break=no</createbox>"
+}

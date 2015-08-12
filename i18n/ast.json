@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Xuacu\r"
+		]
+	},
+	"createbox-desc": "Caxa d'entrada especializada pa la creación de páxines",
+	"createbox-create": "Crear",
+	"createbox-exists": "Sentímoslo, \"'''{{FULLPAGENAME}}'''\" yá esiste.\r\n\r\nNun puedes crear esta páxina, pero puedes [{{fullurl:{{FULLPAGENAME}}|action=edit}} editala], [{{fullurl:{{FULLPAGENAME}}}} lleela], o elixir crear una páxina diferente usando la caxa d'abaxo.\r\n\r\n<createbox>break=no</createbox>"
+}

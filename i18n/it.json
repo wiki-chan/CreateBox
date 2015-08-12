@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Pietrodn\r"
+		]
+	},
+	"createbox-desc": "Inputbox specializzato per la creazione di pagine",
+	"createbox-create": "Crea",
+	"createbox-exists": "Scusa, \"'''{{FULLPAGENAME}}'''\" esiste già.\r\n\r\nNon puoi creare questa pagina, ma puoi [{{fullurl:{{FULLPAGENAME}}|action=edit}} modificarla], [{{fullurl:{{FULLPAGENAME}}}} leggerla] o scegliere di creare una pagina diversa usando il box sottostante.\r\n\r\n<createbox>break=no</createbox>"
+}

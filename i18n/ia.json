@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie\r"
+		]
+	},
+	"createbox-desc": "Quadro de entrata specialisate pro le creation de paginas",
+	"createbox-create": "Crear",
+	"createbox-exists": "Pardono, \"'''{{FULLPAGENAME}}'''\" existe ja.\r\n\r\nTu non pote crear iste pagina, sed tu pote [{{fullurl:{{FULLPAGENAME}}|action=edit}} modificar lo], [{{fullurl:{{FULLPAGENAME}}}} leger lo], o optar pro crear un altere pagina con le quadro infra.\r\n\r\n<createbox>break=no</createbox>"
+}

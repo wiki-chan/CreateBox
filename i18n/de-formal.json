@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Imre\r"
+		]
+	},
+	"createbox-exists": "„'''{{FULLPAGENAME}}'''“ existiert bereits.\r\n\r\nSie können diese Seite nicht anlegen, aber Sie können sie [{{fullurl:{{FULLPAGENAME}}|action=edit}} bearbeiten], [{{fullurl:{{FULLPAGENAME}}}} lesen] oder eine andere Seite mithilfe des untenstehenden Eingabefeldes anlegen.\r\n\r\n<createbox>break=no</createbox>"
+}

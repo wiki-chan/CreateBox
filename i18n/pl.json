@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Sp5uhe\r",
+			"Wpedzich\r"
+		]
+	},
+	"createbox-desc": "Specjalizowane pole tekstowe do tworzenia nowych stron",
+	"createbox-create": "Utwórz",
+	"createbox-exists": "Strona „'''{{FULLPAGENAME}}'''” już istnieje.\r\n\r\nNie możesz utworzyć tej strony, lecz możesz ją [{{fullurl:{{FULLPAGENAME}}|action=edit}} edytować], [{{fullurl:{{FULLPAGENAME}}}} przeczytać], lub stworzyć inną stronę za pomocą poniższego pola wyboru.\r\n\r\n<createbox>break=no</createbox>"
+}

@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fulup\r"
+		]
+	},
+	"createbox-desc": "Boest skridaozañ gouestlet d'ar c'hrouiñ pajennoù",
+	"createbox-create": "Krouiñ",
+	"createbox-exists": "Ho tigarez, bez' ez eus eus \"'''{{FULLPAGENAME}}'''\" c'hoazh.\r\n\r\nN'haller ket krouiñ ar bajenn-mañ, met gallout a reer [{{fullurl:{{FULLPAGENAME}}|action=edit}} degas kemmoù enni], [{{fullurl:{{FULLPAGENAME}}}} lenn anezhi], pe dibab krouiñ ur bajenn all en ur implijout ar voest a-is.\r\n\r\n<createbox>break=no</createbox>"
+}
