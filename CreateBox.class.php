@@ -31,7 +31,7 @@ class CreateBox {
 			global $wgOut;
 			$text = $article->getTitle()->getPrefixedText();
 			$wgOut->setPageTitle( $text );
-			$wgOut->setHTMLTitle( wfMsg( 'pagetitle', $text . ' - ' . wfMsg( 'createbox-create' ) ) );
+			$wgOut->setHTMLTitle( wfMessage( 'pagetitle', $text . ' - ' . wfMessage( 'createbox-create' )->text() )->text() );
 			$wgOut->addWikiMsg( 'createbox-exists' );
 		}
 		return false;
@@ -70,7 +70,7 @@ class CreateBox {
 		$width = CreateBox::acGetOption( $input, 'width', 0 );
 		// $align = CreateBox::acGetOption( $input, 'align', 'center' );
 		$br = ( ( CreateBox::acGetOption( $input, 'break', 'no' ) == 'no' ) ? '' : '<br />' );
-		$label = CreateBox::acGetOption( $input, 'buttonlabel', wfMsgHtml( 'createbox-create' ) );
+		$label = CreateBox::acGetOption( $input, 'buttonlabel', wfMessage( 'createbox-create' )->escaped() );
 		$output = <<<ENDFORM
 <div class="createbox">
 <form name="createbox" action="{$submit}" method="get" class="createboxForm">
