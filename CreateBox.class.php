@@ -72,8 +72,7 @@ class CreateBox {
 		$br = ( ( CreateBox::acGetOption( $input, 'break', 'no' ) == 'no' ) ? '' : '<br />' );
 		$label = CreateBox::acGetOption( $input, 'buttonlabel', wfMessage( 'createbox-create' )->escaped() );
 		$output = <<<ENDFORM
-<div class="createbox">
-<form name="createbox" action="{$submit}" method="get" class="createboxForm">
+<div class="createbox"><form name="createbox" action="{$submit}" method="get" class="createboxForm">
 <input type='hidden' name="action" value="create">
 <input type="hidden" name="prefix" value="{$prefix}" />
 <input type="hidden" name="preload" value="{$preload}" />
